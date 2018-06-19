@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/Selenium_jar_Files - Copy/selenium-java-2.46.0.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_jar_Files - Copy/selenium-java-2.46.0-srcs.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_jar_Files - Copy/libs_1/libs_1/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_jar_Files - Copy/libs_1/libs_1/bsh-1.3.0.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_jar_Files - Copy/libs_1/libs_1/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_jar_Files - Copy/libs_1/libs_1/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_jar_Files - Copy/libs_1/libs_1/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_jar_Files - Copy/libs_1/libs_1/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_jar_Files - Copy/libs_1/libs_1/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_jar_Files - Copy/libs_1/libs_1/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_jar_Files - Copy/libs_1/libs_1/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_jar_Files - Copy/libs_1/libs_1/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_jar_Files - Copy/libs_1/libs_1/cssparser-0.9.16.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_jar_Files - Copy/libs_1/libs_1/curvesapi-1.03.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_jar_Files - Copy/libs_1/libs_1/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_jar_Files - Copy/libs_1/libs_1/guava-18.0.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_jar_Files - Copy/libs_1/libs_1/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_jar_Files - Copy/libs_1/libs_1/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_jar_Files - Copy/libs_1/libs_1/htmlunit-2.17.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_jar_Files - Copy/libs_1/libs_1/htmlunit-core-js-2.17.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_jar_Files - Copy/libs_1/libs_1/httpclient-4.4.1.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_jar_Files - Copy/libs_1/libs_1/httpcore-4.4.1.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_jar_Files - Copy/libs_1/libs_1/httpmime-4.4.1.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_jar_Files - Copy/libs_1/libs_1/jcommander-1.29.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_jar_Files - Copy/libs_1/libs_1/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_jar_Files - Copy/libs_1/libs_1/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_jar_Files - Copy/libs_1/libs_1/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_jar_Files - Copy/libs_2/libs_2/jetty-io-9.2.11.v20150529.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_jar_Files - Copy/libs_2/libs_2/jetty-util-9.2.11.v20150529.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_jar_Files - Copy/libs_2/libs_2/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_jar_Files - Copy/libs_2/libs_2/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_jar_Files - Copy/libs_2/libs_2/junit-dep-4.11.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_jar_Files - Copy/libs_2/libs_2/nekohtml-1.9.22.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_jar_Files - Copy/libs_2/libs_2/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_jar_Files - Copy/libs_2/libs_2/phantomjsdriver-1.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_jar_Files - Copy/libs_2/libs_2/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_jar_Files - Copy/libs_2/libs_2/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_jar_Files - Copy/libs_2/libs_2/testng-6.8.5.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_jar_Files - Copy/libs_2/libs_2/websocket-api-9.2.11.v20150529.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_jar_Files - Copy/libs_2/libs_2/websocket-client-9.2.11.v20150529.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_jar_Files - Copy/libs_2/libs_2/websocket-common-9.2.11.v20150529.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_jar_Files - Copy/libs_2/libs_2/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_jar_Files - Copy/libs_2/libs_2/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_jar_Files - Copy/libs_2/libs_2/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_jar_Files - Copy/lib-3/lib-3/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_jar_Files - Copy/lib-3/lib-3/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_jar_Files - Copy/lib-3/lib-3/curvesapi-1.03.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_jar_Files - Copy/lib-3/lib-3/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_jar_Files - Copy/lib-3/lib-3/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_jar_Files - Copy/lib-3/lib-3/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_jar_Files - Copy/poi_excel_jars/poi-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_jar_Files - Copy/poi_excel_jars/poi-examples-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_jar_Files - Copy/poi_excel_jars/poi-excelant-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_jar_Files - Copy/poi_excel_jars/poi-ooxml-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_jar_Files - Copy/poi_excel_jars/poi-ooxml-schemas-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_jar_Files - Copy/poi_excel_jars/poi-scratchpad-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_jar_Files - Copy/poi_excel_jars/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

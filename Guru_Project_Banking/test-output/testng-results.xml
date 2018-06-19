@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13815" started-at="2018-06-19T08:04:35Z" finished-at="2018-06-19T08:04:49Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13815" started-at="2018-06-19T08:04:35Z" finished-at="2018-06-19T08:04:49Z">
+      <class name="Bank_Project.LoginTest">
+        <test-method status="PASS" signature="LaunchBrowser()[pri:0, instance:Bank_Project.LoginTest@491cc5c9]" name="LaunchBrowser" is-config="true" duration-ms="7573" started-at="2018-06-19T13:34:35Z" finished-at="2018-06-19T13:34:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrowser -->
+        <test-method status="PASS" signature="LoginPage()[pri:0, instance:Bank_Project.LoginTest@491cc5c9]" name="LoginPage" duration-ms="3891" started-at="2018-06-19T13:34:43Z" finished-at="2018-06-19T13:34:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginPage -->
+        <test-method status="PASS" signature="Login()[pri:1, instance:Bank_Project.LoginTest@491cc5c9]" name="Login" duration-ms="1438" started-at="2018-06-19T13:34:47Z" finished-at="2018-06-19T13:34:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="verifyHomepageTitle()[pri:2, instance:Bank_Project.LoginTest@491cc5c9]" name="verifyHomepageTitle" duration-ms="806" started-at="2018-06-19T13:34:48Z" finished-at="2018-06-19T13:34:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepageTitle -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:Bank_Project.LoginTest@491cc5c9]" name="closebrowser" is-config="true" duration-ms="59" started-at="2018-06-19T13:34:49Z" finished-at="2018-06-19T13:34:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- Bank_Project.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
