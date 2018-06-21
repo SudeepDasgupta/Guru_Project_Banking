@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Bank Project">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="Bank_Project.LoginTest"/>
+      <class name="Bank_Project.TestScript_02"/>
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Bank Project -->
